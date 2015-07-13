@@ -1,2 +1,2 @@
 # MyFirstProject
-test project on rfc 4791
+my test project on rfc 4791 protocol
